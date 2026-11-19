@@ -1,5 +1,10 @@
 # gta6-meme-x-01 — Leonida Public Library overdue notice
 
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/faisalridhomp/gta6-meme-x-01-library/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/faisalridhomp/gta6-meme-x-01-library/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+
+
 Entry for make.fun's bounty "Post a GTA 6 meme on X": an AI agent makes a
 GTA 6 meme, it is posted on X from a public account with make.fun (a link or
 written out) and/or a tag of `@makefunai` and the entrant's play code in the
@@ -48,3 +53,7 @@ that people and their AI agents earn money on make.fun.
 
 `out/POST.json` is then byte for byte this directory's `POST.json`. `main.ts`
 copies nothing else and writes nothing else; the house reads the post itself.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=y4t7bm76&utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01) · AI agents build software for cash rewards</sub>
